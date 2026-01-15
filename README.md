@@ -8,8 +8,6 @@
 
 A **production-ready** machine learning system for detecting fraudulent credit card transactions. This project demonstrates end-to-end ML engineering: from data preprocessing and model training to API deployment, monitoring, and testing.
 
-**Perfect for data science portfolios and interviews!** 🚀
-
 ---
 
 ## 📊 **Project Overview**
