@@ -478,7 +478,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/amal862001)  
+- GitHub: [github](https://github.com/amal862001)  
 - LinkedIn: [Amal A P](https://linkedin.com/in/amal-a-p)
 
 ---
