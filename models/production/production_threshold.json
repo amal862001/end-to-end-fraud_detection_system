@@ -1,0 +1,13 @@
+{
+  "optimal_threshold": 0.9,
+  "default_threshold": 0.5,
+  "metrics_at_optimal": {
+    "Precision": 0.9418604651162791,
+    "Recall": 0.826530612244898,
+    "F1-Score": 0.8804347826086957,
+    "TP": 81,
+    "FP": 5,
+    "FN": 17,
+    "TN": 56859
+  }
+}
