@@ -8,8 +8,6 @@
 
 A **production-ready** machine learning system for detecting fraudulent credit card transactions. This project demonstrates end-to-end ML engineering: from data preprocessing and model training to API deployment, monitoring, and testing.
 
-**Perfect for data science portfolios and interviews!** 🚀
-
 ---
 
 ## 📊 **Project Overview**
@@ -446,94 +444,12 @@ python run_tests.py --api           # API tests
 
 ---
 
-## 🎓 **What This Project Demonstrates**
-
-### **Technical Skills**
-✅ **Data Science:**
-- Handling highly imbalanced datasets (0.17% fraud)
-- Feature engineering and preprocessing
-- Model selection and evaluation
-- Hyperparameter optimization (Optuna)
-
-✅ **ML Engineering:**
-- Production model deployment (FastAPI)
-- Model serialization and versioning
-- API development and testing
-- Docker containerization
-
-✅ **MLOps:**
-- Experiment tracking (MLflow)
-- Monitoring (Prometheus + Grafana)
-- Automated testing (68 tests)
-- CI/CD ready
-
-### **Best Practices**
-✅ Clean, modular code
-✅ Comprehensive documentation
-✅ Version control (Git)
-✅ Reproducible results
-✅ Production-ready architecture
-
----
-
-## 🎤 **Interview Talking Points**
-
-**"I built a production-ready fraud detection system that demonstrates end-to-end ML engineering:"**
-
-**1. Problem & Approach:**
-- Highly imbalanced dataset (0.17% fraud) requiring specialized techniques
-- Used PR-AUC instead of accuracy as the primary metric
-- Implemented multiple models and optimization strategies
-
-**2. Technical Implementation:**
-- Trained baseline models (Logistic Regression, Random Forest)
-- Advanced models (XGBoost, LightGBM) with hyperparameter optimization
-- Achieved 0.8734 PR-AUC (6.9% improvement over baseline)
-- Deployed as REST API with FastAPI and Docker
-
-**3. Production Features:**
-- Real-time predictions via REST API
-- Batch processing support
-- Prometheus metrics and Grafana dashboards
-- 68 automated tests with >80% coverage
-- Complete monitoring and alerting
-
-**4. Business Impact:**
-- Catches 87 out of 98 frauds (86.7% recall)
-- 87% precision (fewer false alarms)
-- 28% reduction in false positives vs baseline
-- Scalable architecture for production deployment
-
-**5. Key Learnings:**
-- Importance of appropriate metrics for imbalanced data
-- Trade-offs between model complexity and interpretability
-- Value of automated hyperparameter optimization
-- Critical role of monitoring in production ML systems
-
----
-
 ## 📚 **Documentation**
 
 - **[API Documentation](api/README.md)** - FastAPI endpoints and usage
 - **[Monitoring Guide](monitoring/README.md)** - Prometheus & Grafana setup
 - **[Testing Guide](tests/README.md)** - Test suite documentation
 - **[Notebooks](notebooks/README.md)** - EDA and analysis
-
----
-
-## 🚀 **Next Steps**
-
-### **Enhancements**
-- [ ] Add feature engineering pipeline
-- [ ] Implement A/B testing framework
-- [ ] Add model retraining pipeline
-- [ ] Deploy to cloud (AWS/GCP/Azure)
-
-### **For Learning**
-- [ ] Experiment with different thresholds
-- [ ] Try ensemble methods
-- [ ] Add explainability (SHAP values)
-- [ ] Implement online learning
 
 ---
 
@@ -562,11 +478,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/amal862001)  
+- LinkedIn: [Amal A P](https://linkedin.com/in/amal-a-p)
 
 ---
-
-**Built with ❤️ for aspiring ML engineers and data scientists!** 🚀
 
 *Star ⭐ this repo if you find it helpful!*
